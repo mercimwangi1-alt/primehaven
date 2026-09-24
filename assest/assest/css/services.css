@@ -1,0 +1,35 @@
+#service{
+    font-weight: bolder;
+    font-style: italic;
+    
+}
+.main{
+    color: blue;
+}
+#vip{
+    background-color: bisque;
+    margin: 40px;
+    padding: 60px;
+    border-radius: 100px;
+}
+#vip button{
+    background-color: red;
+}
+#vip:hover{
+    background-color: rgb(52, 14, 219);
+
+}
+#serv{ 
+    display: flex;
+}
+.sub{
+    text-align: center;
+    background-color: rgb(78, 78, 222);
+    margin-right: 20px;
+    padding:20 px;
+    border-radius: 120px;
+    box-shadow: 0 0 15px rgb(212, 14, 14);
+}
+.sub:hover{
+    background-color: rgb(16, 206, 220);
+}

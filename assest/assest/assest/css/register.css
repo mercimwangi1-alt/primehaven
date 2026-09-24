@@ -1,0 +1,26 @@
+form{
+    background-color: bisque;
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 50px;
+    box-shadow: 0 0 12px greenyellow;
+}
+legend{
+    font-size: 40px;
+    font-weight: bold;
+}
+input[type=text], input[type=email], input[type=password],
+input[type=number], input[type=date],input[datetime-local],input[select]{
+    width: 100%;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+    padding-left: 20px;
+}
+body{
+
+        background-image: url("../assest/backgr.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+}
